@@ -12,6 +12,27 @@ A fast, browser-based background removal tool built with React and Vite. Upload 
 - **Responsive layout** with a shared Navbar/Footer and toast notifications for user feedback
 - **Built with Tailwind CSS v4** for fast, utility-first styling
 
+## Screenshots
+
+** Signin Page
+<img width="1470" height="828" alt="Screenshot 2026-06-30 at 9 29 30 PM" src="https://github.com/user-attachments/assets/f1d5260c-933d-4b1c-abdf-027e8db2ea12" />
+
+** Home Page
+<img width="1453" height="833" alt="Screenshot 2026-06-30 at 9 27 39 PM" src="https://github.com/user-attachments/assets/d8d937b4-99ed-400f-9c29-bdf0b11bd521" />
+
+** BulkAPI Page
+<img width="1452" height="833" alt="Screenshot 2026-06-30 at 9 28 04 PM" src="https://github.com/user-attachments/assets/e985e03c-bfbe-45f3-8f28-73ff05d7bf1a" />
+
+** Pricing Page
+<img width="1455" height="829" alt="Screenshot 2026-06-30 at 9 28 28 PM" src="https://github.com/user-attachments/assets/553e4133-8aeb-4717-a523-d8df75544155" />
+
+** About Page
+<img width="1453" height="830" alt="Screenshot 2026-06-30 at 9 28 52 PM" src="https://github.com/user-attachments/assets/0f943cfc-df7d-4dd7-8132-5730a41216a2" />
+
+** Contact Page
+<img width="1454" height="831" alt="Screenshot 2026-06-30 at 9 29 15 PM" src="https://github.com/user-attachments/assets/1da8b62b-a41d-4f0e-abd1-e98e57a9c2c1" />
+
+
 ## 🛠️ Tech Stack
 
 - **Framework:** React 19 + Vite
