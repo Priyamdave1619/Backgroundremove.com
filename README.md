@@ -14,7 +14,7 @@ A fast, browser-based background removal tool built with React and Vite. Upload 
 
 ## Screenshots
 
-** Signin Page
+## Signin Page
 <img width="1470" height="828" alt="Screenshot 2026-06-30 at 9 29 30 PM" src="https://github.com/user-attachments/assets/f1d5260c-933d-4b1c-abdf-027e8db2ea12" />
 
 ## Home Page
